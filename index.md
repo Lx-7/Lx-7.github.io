@@ -9,6 +9,6 @@
     
   
 
-  </tr>
-</table>
-[https://github.com/Lx-7/lx/blob/master/%E5%A4%8D%E6%8C%87%E6%95%B0.py](复指数)
+  </ tr>
+</ table>
+[复指数]（https://github.com/Lx-7/lx/blob/master/%E5%A4%8D%E6%8C%87%E6%95%B0.py）
